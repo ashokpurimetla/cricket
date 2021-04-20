@@ -1,0 +1,12 @@
+p{
+  color:Red;
+}
+h1
+{
+  color: blue;
+}
+div{
+  border: 4px black solid;
+  background-color: yellow;
+  border-radius: 10px;
+}
